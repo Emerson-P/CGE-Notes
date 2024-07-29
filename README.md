@@ -1,3 +1,17 @@
+<p>
+    Cge-notes crie,altere e delete notas.
+    Para usar baixe a versão full do largon em https://laragon.org/download/
+    configure e use no cmd do laragon o comando "composer global require laravel/installer"
+    crie um projeto " composer create-project laravel/laravel cge-notes"
+    baixe esse repositorio e substitua os arquivos do projeto criado acima
+    acesse a interface de banco de dados do laragon e crie um banco com nome "laragon"
+    ou acesse .env e confugre um proprio banco
+    use "use php artisan migrate" para configurar corretamente as tabelas.
+    
+</p>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
