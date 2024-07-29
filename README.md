@@ -1,5 +1,5 @@
 <p>
-    Cge-notes crie,altere e delete notas.
+    Cge-notes crie,altere e delete notas. <br>
     Para usar baixe a versão full do largon em https://laragon.org/download/
     configure e use no cmd do laragon o comando "composer global require laravel/installer"
     crie um projeto " composer create-project laravel/laravel cge-notes"
