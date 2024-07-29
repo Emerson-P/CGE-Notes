@@ -1,6 +1,7 @@
 <p>
     Cge-notes crie,altere e delete notas. <br>
-    Para usar baixe a versão full do laragon em https://laragon.org/download/ <br>
+    Para usar: <br>
+    baixe a versão full do laragon em https://laragon.org/download/ <br>
     configure o laragon e apos use no cmd do laragon o comando "composer global require laravel/installer" <br>
     crie um projeto no cmd com o comando " composer create-project laravel/laravel cge-notes" <br>
     baixe esse repositorio e substitua os arquivos do projeto criado acima <br> 
